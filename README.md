@@ -1,7 +1,7 @@
 ## hi there👋
 #### coder | engineer | developer - [LetsUpgrade EdTech Pvt. Ltd. ](https://letsupgrade.in)
 
-## &#x1f4c8; about
+## &#x1f4c8; about me
 
 - 🧔‍ hi, i'm Shoieb Shaikh , a passionate self-taught backend developer,ML enthusiast , Linux fanbiy  and an engineering student from india. 
 - 🙋‍♂️ i have keen interests in data , databases ,and data manipulation . 
@@ -12,7 +12,7 @@
 - 💬 Ask me about anything , happy to help .
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shoieb-shaikh-366439189) | [Email](mailto:shaikhshoieb22@gmail.com)
 
-## &#x1f4c8; tech stack
+## &#x1f4c8; tech stack known
 
 <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-cylinder&logo=google-cloud&logoColor=white" /> <img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-cylinder&logo=amazon-aws&logoColor=white" /> <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-cylinder&logo=jenkins&logoColor=white" />
 <br>
@@ -32,11 +32,8 @@
 <br>
 <img alt="Epic Games" src="https://img.shields.io/badge/EpicGames-%23313131.svg?style=flat-cylinder&logo=epicgames&logoColor=white" /> <img alt="Steam" src="https://img.shields.io/badge/Steam-%23000000.svg?style=folat-cylinder&logo=steam&logoColor=white" />
 
-## &#x1f4c8; gitHub stats
+## &#x1f4c8; github stats
 <p align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=shaikhshoieb22&show_icons=true&theme=gotham&layout=compact&include_all_commits=true" />
-</p>
-<br>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhshoieb22&hide=TeX&layout=compact&theme=gotham" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhshoieb22&hide=TeX&layout=compact&theme=gotham" />
 </p>
