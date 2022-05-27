@@ -3,7 +3,7 @@
 
 ## &#x1f4c8; about me
 
-- 🧔‍ hi, i'm Shoieb Shaikh , a passionate self-taught backend developer,ML enthusiast , Linux fanbiy  and an engineering student from india. 
+- 🧔‍ hi, i'm Shoieb Shaikh , a passionate self-taught backend developer,ML enthusiast , Linux fanboy  and an engineering student from india. 
 - 🙋‍♂️ i have keen interests in data , databases ,and data manipulation . 
 - 📖always excited to learn new stuff . 
 - 🧑🏼‍🤝‍🧑🏾i am also an open-source enthusiast . i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
