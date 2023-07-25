@@ -8,6 +8,7 @@
 - 📖always excited to learn new stuff . 
 - 🧑🏼‍🤝‍🧑🏾i am also an open-source enthusiast . i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 - 🔭 I’m currently working for [LetsUpgrade EdTech Pvt. Ltd. ](https://letsupgrade.in)
+- 📈 Currently building [lisa](https://lisaapp.in)
 - 🌱 I’m currently learning Node.Js and Golang .
 - 💬 Ask me about anything , happy to help .
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shoieb-shaikh-366439189) | [Email](mailto:shaikhshoieb22@gmail.com)
