@@ -34,6 +34,8 @@
 <img alt="Epic Games" src="https://img.shields.io/badge/EpicGames-%23313131.svg?style=flat-cylinder&logo=epicgames&logoColor=white" /> <img alt="Steam" src="https://img.shields.io/badge/Steam-%23000000.svg?style=folat-cylinder&logo=steam&logoColor=white" />
 
 ## &#x1f4c8; github stats
+<p align="left"><img src = "https://github-profile-trophy.vercel.app/?username=shaikhshoieb22&theme=gitdimmed&rank=SECRET,S"
+</p>
 <p align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=shaikhshoieb22&show_icons=true&theme=gotham&layout=compact&include_all_commits=true" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhshoieb22&hide=TeX&layout=compact&theme=gotham" />
