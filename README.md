@@ -1,5 +1,5 @@
 ## hi there👋
-#### coder | engineer | developer - [LetsUpgrade EdTech Pvt. Ltd. ](https://letsupgrade.in)
+#### coder | engineer | developer - [My Visit ](https://shoieb.com)
 
 ## &#x1f4c8; about me
 
